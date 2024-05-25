@@ -20,7 +20,7 @@ az storage container create --name $CONTAINER_NAME --account-name $STORAGE_ACCOU
 ```
 
 ###
-1) AZ login
+1) az login
 2) terraform init
 3) terraform plan
 4) terraform apply --auto-approve
